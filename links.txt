@@ -3,3 +3,6 @@ https://learn.microsoft.com/en-us/office/ltsc/2024/deploy
 
 Downolad Deployment Tool:
 https://www.microsoft.com/en-us/download/details.aspx?id=49117
+
+Downlad full zip: 3.7Go:
+https://1drv.ms/u/c/0a2fe9c7a6350f2a/IQD4zHlJpYPwTrNbDs803NfxAVFmKPdRRSJ_-3-uv4za4XE?e=7WTdhp

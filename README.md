@@ -42,10 +42,12 @@ Office/Data/          # Directory containing Office CAB files
 - Ensure all CAB files are present in `Office/Data/` before running the installer.
 - Modify XML files as needed to match your organization's requirements.
 
+
 ## Useful Links
 
 - [Official Deployment Instructions](https://learn.microsoft.com/en-us/office/ltsc/2024/deploy)
 - [Download Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+- [Download full deployment zip (3.7GB)](https://1drv.ms/u/c/0a2fe9c7a6350f2a/IQD4zHlJpYPwTrNbDs803NfxAVFmKPdRRSJ_-3-uv4za4XE?e=7WTdhp)
 
 ## License
 This project is provided as-is for internal or educational use. Please ensure compliance with Microsoft licensing for Office deployments.
